@@ -1,0 +1,50 @@
+*, html{
+    margin: 0 0 0;
+    padding: 0;
+}
+
+.main{
+    margin: 0 10% 0;
+}
+
+h1 {
+    text-align: center;
+    padding: 50px 0 15px;
+}
+
+h2{
+    margin-top: 5px;
+    margin-bottom: 8px;
+    background-color: lightgray;
+    border-bottom-style: solid;
+}
+
+.add_bottom{
+    margin-bottom: 5px;
+}
+
+span.timeline{
+    font-size: 75%;
+    float: right;
+}
+
+span.Underscore{
+    text-decoration: underline;
+}
+
+p{
+    margin-bottom: 20px;
+}
+
+ul{
+    padding: 0px 0px 10px 25px;
+}
+
+li{
+    padding: 5px 0px 0px 0px;
+}
+
+.weight{
+    font-weight: bold;
+    font-size: 110%;
+}
